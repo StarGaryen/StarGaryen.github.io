@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello. I'm Devendra Samatia.</title>
+ <link href="http://StarGaryen.github.io/atom.xml" rel="self"/>
+ <link href="http://StarGaryen.github.io/"/>
+ <updated>2017-03-22T03:14:02+05:30</updated>
+ <id>http://StarGaryen.github.io</id>
+ <author>
+   <name>Devendra Samatia</name>
+   <email>devendrasamatia@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Games in c later</title>
+   <link href="http://StarGaryen.github.io/game/2017/03/20/Games-in-c.html"/>
+   <updated>2017-03-20T08:43:00+05:30</updated>
+   <id>http://StarGaryen.github.io/game/2017/03/20/Games-in-c</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
