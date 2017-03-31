@@ -9,5 +9,5 @@ featured_image: 'img/posts/algo.png'
 project_link: 'https://github.com/StarGaryen/Basic-Algorithms'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'Library of algorithms which may come in handy for beginners.'
+lead_text: 'Library of algorithms which may come in handy for beginners.(Just Started so not completed yet)'
 ---
